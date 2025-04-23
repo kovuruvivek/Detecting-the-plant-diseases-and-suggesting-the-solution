@@ -1,0 +1,1 @@
+# Detecting-the-plant-diseases-and-suggesting-the-solution
